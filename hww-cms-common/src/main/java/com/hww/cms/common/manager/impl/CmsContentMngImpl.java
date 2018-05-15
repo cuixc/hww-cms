@@ -230,7 +230,7 @@ public class CmsContentMngImpl extends BaseEntityMngImpl<Long, CmsContent, CmsCo
 	}
 	
 	@Override
-	public List<CmsContent> queryTopNewList(HCmsQueryDto cmsQueryDto, List<Long> uninterestedContentIds) {
+	public List<CmsContentDto> queryTopNewList(HCmsQueryDto cmsQueryDto, List<Long> uninterestedContentIds) {
 //		Finder hql = Finder.create("from CmsContent");
 //		hql.append(" where 1=1");
 //		hql.append(" and auditStatus=1");
@@ -258,15 +258,18 @@ public class CmsContentMngImpl extends BaseEntityMngImpl<Long, CmsContent, CmsCo
 								.collect(Collectors.toList()));
 		
 		List<CmsContent> res=hwwRedisCache.get(cacheKeyTopNews, cacheKeyTopNews+"_"+hashKey, List.class);
+		
 		if(res==null) {
 			res=selectTopNewList( cmsQueryDto,  uninterestedContentIds);
 			if(res==null) {
-				return res;
+				return Lists.newArrayList();
 			}
 			hwwRedisCache.put(cacheKeyTopNews,  cacheKeyTopNews+"_"+hashKey, res);
-			return res;
+			/*List<CmsContentDto> resDto = BeanMapper.mapList(res, CmsContentDto.class);
+			return resDto;*/
 		}
-		return res;
+		List<CmsContentDto> resDto = BeanMapper.mapList(res, CmsContentDto.class);
+		return resDto;
 		//=========from cacahe--------------
 	}
 	

@@ -47,7 +47,7 @@ public interface CmsContentMng extends IBaseEntityMng<Long, CmsContent, CmsConte
 
 	List<CmsContent> queryPromoteNewsByPage(List<Long> contentIds, QueryContentVo vo);
 
-	List<CmsContent> queryTopNewList(HCmsQueryDto cmsQueryDto,List<Long> uninterestedContentIds);
+	List<CmsContentDto> queryTopNewList(HCmsQueryDto cmsQueryDto,List<Long> uninterestedContentIds);
 
     List<CmsContent> queryCmsContentPageList(QueryContentVo vo, List<Long> categoryIds, List<Long> contentIds);
 
