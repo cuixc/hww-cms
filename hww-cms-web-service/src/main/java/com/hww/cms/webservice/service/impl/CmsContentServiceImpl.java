@@ -1027,8 +1027,8 @@ public class CmsContentServiceImpl implements CmsContentService {
 	}
 
 	@Override
-	public List<Map<String, Object>> initialOrigin(List<Map<String, Object>> CmsContentVos) {
-		for (Map<String, Object> val : CmsContentVos) {
+	public List<Map<String, Object>> initialOrigin(List<Map<String, Object>> cmsContentVos) {
+		for (Map<String, Object> val : cmsContentVos) {
 			Object obj = val.get("content");
 			if (obj != null && obj instanceof CmsContentVo) {
 				CmsContentVo cmsContentVo = (CmsContentVo) obj;
@@ -1045,7 +1045,7 @@ public class CmsContentServiceImpl implements CmsContentService {
 				cmsContentVo.setOrigin(origin);
 			}
 		}
-		return CmsContentVos;
+		return cmsContentVos;
 	}
 
 	/**
