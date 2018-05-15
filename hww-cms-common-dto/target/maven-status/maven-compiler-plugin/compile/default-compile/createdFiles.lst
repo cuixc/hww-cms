@@ -1,0 +1,15 @@
+com\hww\cms\common\dto\CmsCategoryDto.class
+com\hww\cms\common\dto\HCmsIndexDto.class
+com\hww\cms\common\dto\HJPushDataDto.class
+com\hww\cms\common\dto\CmsRecommConfigDto.class
+com\hww\cms\common\dto\CmsContentAuditFlowDto.class
+com\hww\cms\common\dto\CmsContentDto.class
+com\hww\cms\common\dto\CmsHotWordDto.class
+com\hww\cms\common\dto\HCmsQueryDto.class
+com\hww\cms\common\dto\CmsContentDataDto.class
+com\hww\cms\common\dto\CmsOriginDto.class
+com\hww\cms\common\dto\AllCategoryTreeDto.class
+com\hww\cms\common\dto\CmsObjectDto.class
+com\hww\cms\common\dto\HCmsDto.class
+com\hww\cms\common\dto\CmsSearchHistoryDto.class
+com\hww\cms\common\dto\HCmsInstrDto.class

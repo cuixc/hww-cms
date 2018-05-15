@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hww.framework:hww-framework-config:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hww/framework/hww-framework-config/0.0.1-SNAPSHOT/hww-framework-config-0.0.1-20180511.071302-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hww/framework/hww-framework-config/0.0.1-SNAPSHOT/hww-framework-config-0.0.1-20180511.071302-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hww/framework/hww-framework-config/0.0.1-SNAPSHOT/hww-framework-config-0.0.1-20180511.071302-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

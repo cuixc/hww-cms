@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c995d6f-f539-4c4a-bf34-962e582aad36" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/add/SearchNewsVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common-dto/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/src/main/java/com/hww/cms/common/dto/CmsCategoryDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common-dto/src/main/java/com/hww/cms/common/dto/CmsCategoryDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/src/main/java/com/hww/cms/common/dto/CmsContentDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common-dto/src/main/java/com/hww/cms/common/dto/CmsContentDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/META-INF/maven/com.hww.cms/hww-cms-common-dto/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/META-INF/maven/com.hww.cms/hww-cms-common-dto/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/CmsCategoryDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/CmsCategoryDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/CmsContentDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/CmsContentDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/CmsHotWordDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/CmsHotWordDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/CmsOriginDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/CmsOriginDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/CmsRecommConfigDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/CmsRecommConfigDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/CmsSearchHistoryDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/CmsSearchHistoryDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/HCmsDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/HCmsDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/HCmsIndexDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/HCmsIndexDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/HCmsInstrDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/HCmsInstrDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/HCmsQueryDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/HCmsQueryDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/HJPushDataDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common-dto/target/classes/com/hww/cms/common/dto/HJPushDataDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/target/hww-cms-common-dto-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common-dto/target/hww-cms-common-dto-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common-dto/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common-dto/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common-dto/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common-dto/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/dao/CmsContentAuditFlowDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/dao/CmsContentAuditFlowDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/dao/impl/CmsContentAuditFlowDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/dao/impl/CmsContentAuditFlowDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/dao/impl/CmsContentKeywordsDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/dao/impl/CmsContentKeywordsDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/entity/CmsCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/entity/CmsCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/CmsCategoryMng.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/CmsCategoryMng.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/CmsContentAuditFlowMng.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/CmsContentAuditFlowMng.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/CmsContentDataMng.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/CmsContentDataMng.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/CmsContentMng.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/CmsContentMng.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/CmsOriginMng.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/CmsOriginMng.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/impl/CmsCategoryMngImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/impl/CmsCategoryMngImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/impl/CmsContentAuditFlowMngImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/impl/CmsContentAuditFlowMngImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/impl/CmsContentAuditFlowStepsMngImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/impl/CmsContentAuditFlowStepsMngImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/impl/CmsContentDataMngImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/impl/CmsContentDataMngImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/impl/CmsContentMngImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/impl/CmsContentMngImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/impl/CmsOriginMngImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/impl/CmsOriginMngImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/CmsContentDataVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/CmsContentDataVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/CmsContentVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/CmsContentVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/query/SearchNewsVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-service-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-service-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-service-api/src/main/java/com/hww/cms/api/CmsFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-service-api/src/main/java/com/hww/cms/api/CmsFeignClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-service-api/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-service-api/target/classes/META-INF/maven/com.hww.cms/hww-cms-service-api/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-service-api/target/classes/META-INF/maven/com.hww.cms/hww-cms-service-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-service-api/target/classes/com/hww/cms/api/CmsFeignClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-service-api/target/classes/com/hww/cms/api/CmsFeignClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-service-api/target/hww-cms-api-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-service-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-service-api/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-service-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-service-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-service-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-service-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsCategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsCategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsContentAuditController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsContentAuditController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsContentAuditFlowController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsContentAuditFlowController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsContentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsContentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsContentPushController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsContentPushController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsContentTypeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsContentTypeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsOriginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsOriginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsSpecialController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsSpecialController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/service/CmsCategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/service/CmsCategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/service/CmsContentAuditFlowService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/service/CmsContentAuditFlowService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/service/CmsNewEsSyncFailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/service/CmsNewEsSyncFailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/service/impl/CmsCategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/service/impl/CmsCategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/service/impl/CmsContentAuditFlowServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/service/impl/CmsContentAuditFlowServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/util/SiteIdUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/util/SiteIdUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/web/AdminContextInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/web/AdminContextInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/config/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/config/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/config/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/config/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/category/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/category/add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/category/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/category/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/category/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/category/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/common/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/common/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/content/tuji_add.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/content/tuji_add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/content/tuji_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/content/tuji_edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/content/tuwen_add.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/content/tuwen_add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/content/tuwen_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/content/tuwen_edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/content/video_add.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/content/video_add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/content/video_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/content/video_edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/contentback/tuwen_add.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/contentback/tuwen_add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/contentback/tuwen_edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/contentback/tuwen_edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-service/.classpath.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/controller/CmsCategoryForAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/controller/CmsCategoryForAdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/controller/CmsContentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/controller/CmsContentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/controller/CmsForShareController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/controller/CmsForShareController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/CmsCategoryForAdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/CmsCategoryForAdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/CmsContentCacheProxyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/CmsContentCacheProxyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/CmsContentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/CmsContentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/impl/CmsCategoryForAdminServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/impl/CmsCategoryForAdminServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/impl/CmsContentCacheProxyServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/impl/CmsContentCacheProxyServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/impl/CmsContentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/impl/CmsContentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-service/src/main/resources/config/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-service/src/main/resources/config/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hww-cms-web-service/src/main/resources/config/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../hww-cms-web-service/src/main/resources/config/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/../hww-cms-web-admin/target/" />
+    <ignored path="$PROJECT_DIR$/../hww-cms-web-service/target/" />
+    <ignored path="$PROJECT_DIR$/../hww-cms-common-dto/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../hww-cms-service-api/target/" />
+    <ignored path="$PROJECT_DIR$/../hww-cms-common/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CmsContentController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/controller/CmsContentController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="465" column="21" selection-start-line="465" selection-start-column="21" selection-end-line="465" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CmsContentCacheProxyServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/impl/CmsContentCacheProxyServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidatorUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/util/ValidatorUtils.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="CmsContentServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/impl/CmsContentServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="755" column="5" lean-forward="true" selection-start-line="755" selection-start-column="5" selection-end-line="755" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LocationUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/util/LocationUtils.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="CmsContentCacheProxyService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/CmsContentCacheProxyService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>category_content_tpl</find>
+      <find>setting</find>
+      <find>showMenu(</find>
+      <find>showMenu</find>
+      <find>target(</find>
+      <find>categoryForm</find>
+      <find>draggable-element</find>
+      <find>videoContentList</find>
+      <find>saveOrUpdateVideoUrl</find>
+      <find>hww-file-common</find>
+      <find>CmsContentDataVo</find>
+      <find>SearchNewsVo</find>
+      <find>list</find>
+      <find>cmscontentdatavo</find>
+      <find>loadUserCollectNews.do</find>
+      <find>home.do</find>
+      <find>newDetail.do</find>
+      <find>atlasDetail.do</find>
+      <find>snsFeignClient</find>
+      <find>SnsFeignClient</find>
+      <find>updateAuditstatus</find>
+      <find>common</find>
+      <find>hww-sns</find>
+      <find>SysUtils</find>
+      <find />
+      <find>hww-sns-</find>
+      <find>sns</find>
+      <find>ValidatorUtils</find>
+      <find>snsFeignClient.</find>
+      <find>zhaoke</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\123hk\haike_cms\hww-cms\hww-cms-web-admin</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/common/sys_menu.html" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/common/head.html" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/config/application-test.properties" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/config/application-dev.properties" />
+        <option value="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/dao/CmsCategoryDao.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/dao/impl/CmsCategoryDaoImpl.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-common-dto/src/main/java/com/hww/cms/common/dto/CmsCategoryTreeDto.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/service/CmsCategoryService.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/CmsCategoryMng.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/impl/CmsCategoryMngImpl.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/service/impl/CmsCategoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsSpecialController.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/service/impl/CmsContentAuditFlowServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/category/list.html" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/category/add.html" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/template/cms-view/content/tuji_add.html" />
+        <option value="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/impl/CmsContentAuditFlowStepsMngImpl.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsContentAuditController.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsContentPushController.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/CmsContentService.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/sns/SnsTopicVo.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/els/ESContent.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/query/SearchNewsVo.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/els/ESContentVo.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/add/SearchNewsVo.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/add/FileInfoVo.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/add/FileInfo.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/CmsContentVo.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/CmsContentDataVo.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/CmsContentMng.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/impl/CmsContentMngImpl.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/controller/CmsForShareController.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/service/CmsNewEsSyncFailService.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-service-api/src/main/java/com/hww/cms/api/CmsFeignClient.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../hww-cms-common/pom.xml" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/util/SysUtils.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/util/SiteIdUtil.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsCategoryController.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsContentController.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsOriginController.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/web/AdminContextInterceptor.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/config/application-dev.yml" />
+        <option value="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/util/LocationUtils.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/CmsContentCacheProxyService.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/util/ValidatorUtils.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/controller/CmsContentController.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/impl/CmsContentCacheProxyServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/impl/CmsContentServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files/maven" />
+        <option name="userSettingsFile" value="D:\Program Files\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hww-cms-web-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hww-cms-web-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hww-cms-web-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="com.hww.sns:hww-sns-service-api:0.0.1-SNAPSHOT" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="671" />
+    <option name="y" value="92" />
+    <option name="width" value="1400" />
+    <option name="height" value="884" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-common-dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-service-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-web-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-web-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-web-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-web-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-web-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-web-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-web-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-web-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-web-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-web-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-web-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="webservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-web-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-web-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hww-cms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hww-cms-web-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cms" type="462c0819:PsiDirectoryNode" />
+              <item name="webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.6529142" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hww.cms.common.util" />
+      <recent name="com.hww.cms.webadmin.util" />
+      <recent name="com.hww.cms.common.vo.add" />
+      <recent name="com.hww.cms.common.vo.els" />
+      <recent name="com.hww.cms.common.dto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\123hk\haike_cms\hww-cms\hww-cms-common\src\main\java\com\hww\cms\common\vo\add" />
+      <recent name="D:\123hk\haike_cms\hww-cms\hww-cms-common\src\main\java\com\hww\cms\common\vo\sns" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CmsWebAdminApplication">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CmsWebAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hww-cms-web-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hww.CmsWebAdminApplication" />
+    </configuration>
+    <configuration name="CmsWebServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hww-cms-web-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hww.cms.CmsWebServiceApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CmsWebServiceApplication" />
+      <item itemvalue="Spring Boot.CmsWebAdminApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c995d6f-f539-4c4a-bf34-962e582aad36" name="Default" comment="" />
+      <created>1525759400839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525759400839</updated>
+      <workItem from="1525759404876" duration="3249000" />
+      <workItem from="1525762873296" duration="5149000" />
+      <workItem from="1525769854349" duration="2502000" />
+      <workItem from="1525823160226" duration="29171000" />
+      <workItem from="1525863328246" duration="986000" />
+      <workItem from="1525910460675" duration="3764000" />
+      <workItem from="1525915237700" duration="1516000" />
+      <workItem from="1525918531776" duration="471000" />
+      <workItem from="1526294281734" duration="106000" />
+      <workItem from="1526294452870" duration="300000" />
+      <workItem from="1526294804176" duration="1701000" />
+      <workItem from="1526296590361" duration="1192000" />
+      <workItem from="1526342842747" duration="3317000" />
+      <workItem from="1526349073484" duration="2815000" />
+      <workItem from="1526353103753" duration="974000" />
+      <workItem from="1526354151914" duration="7191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64404000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50082237" side_tool="true" weight="0.3299435" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.28464818" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="1" sideWeight="0.858954" side_tool="true" weight="0.29211086" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.34042552" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3846154" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49917763" visible="true" weight="0.28494042" />
+      <window_info anchor="bottom" id="Spring" order="11" weight="0.32997763" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.34236187" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.14104596" visible="true" weight="0.22068231" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32827735" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="19" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/add/ESContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/add/ESContentVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/add/SearchNewsVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/add/SnsPostVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/add/SnsTopicVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/add/FileInfoVo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/add/FileInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/add/FileImgVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/CmsContentVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1133">
+          <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/CmsContentDataVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="65" column="26" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/CmsContentMng.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/manager/impl/CmsContentMngImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="450" selection-start-line="450" selection-end-line="450" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/util/EsContentCovertUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/config/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/config/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/controller/CmsForShareController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/hww/base/hww-base-util/0.0.1-SNAPSHOT/hww-base-util-0.0.1-20180504.033125-1.jar!/com/hww/base/util/R.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/hww/sns/hww-sns-common/0.0.1-SNAPSHOT/hww-sns-common-0.0.1-SNAPSHOT.jar!/com/hww/sns/common/vo/SnsPostVo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/service/CmsNewEsSyncFailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/hww/sns/hww-sns-api/0.0.1-SNAPSHOT/hww-sns-api-0.0.1-SNAPSHOT.jar!/com/hww/sns/api/SnsFeignClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/controller/CmsCategoryForAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-service-api/src/main/java/com/hww/cms/api/CmsFeignClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-service/src/main/resources/config/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="58" column="20" selection-start-line="56" selection-start-column="4" selection-end-line="58" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-service/src/main/resources/config/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-230">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/collect/Lists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+          <folding>
+            <element signature="e#3232#3233#0" expanded="true" />
+            <element signature="e#3267#3268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/vo/HCmsSpecialVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/CmsWebAdminApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/service/impl/SysAuthServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/util/SysUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/util/SiteIdUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsCategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4475">
+          <caret line="191" column="28" selection-start-line="191" selection-start-column="28" selection-end-line="191" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsContentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="591" column="33" selection-start-line="591" selection-start-column="33" selection-end-line="591" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/controller/CmsOriginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="57" column="28" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-admin/src/main/java/com/hww/cms/webadmin/web/AdminContextInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-admin/src/main/resources/config/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="50" column="54" lean-forward="true" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="95" column="31" selection-start-line="95" selection-start-column="28" selection-end-line="95" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="39" column="31" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-common-dto/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-service-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/hww/sns/hww-sns-service-api/0.0.1-SNAPSHOT/hww-sns-service-api-0.0.1-SNAPSHOT.jar!/com/hww/sns/api/SnsFeignClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/util/LocationUtils.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/CmsContentCacheProxyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-common/src/main/java/com/hww/cms/common/util/ValidatorUtils.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/controller/CmsContentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="465" column="21" selection-start-line="465" selection-start-column="21" selection-end-line="465" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/impl/CmsContentCacheProxyServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/hww/sns/hww-sns-service-api/0.0.1-SNAPSHOT/hww-sns-service-api-0.0.1-SNAPSHOT-sources.jar!/com/hww/sns/api/SnsFeignClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/hww/sns/hww-sns-common-dto/0.0.1-SNAPSHOT/hww-sns-common-dto-0.0.1-SNAPSHOT-sources.jar!/com/hww/sns/common/dto/SnsTopicDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/hww/sns/hww-sns-common-dto/0.0.1-SNAPSHOT/hww-sns-common-dto-0.0.1-SNAPSHOT-sources.jar!/com/hww/sns/common/dto/SnsPostDto.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/hww/sns/hww-sns-common-dto/0.0.1-SNAPSHOT/hww-sns-common-dto-0.0.1-SNAPSHOT.jar!/com/hww/sns/common/dto/SnsPostDto.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hww-cms-web-service/src/main/java/com/hww/cms/webservice/service/impl/CmsContentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="755" column="5" lean-forward="true" selection-start-line="755" selection-start-column="5" selection-end-line="755" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6529142" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6529142" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jdk1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6529142" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6529142" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hww-cms</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6529142" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6529142" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

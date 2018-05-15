@@ -1,0 +1,834 @@
+@charset "UTF-8";
+/* line 3, ../sass/diceng20180307.scss */
+body {
+  width: 100%;
+  top: 0;
+  left: 0;
+  padding: 0;
+  margin: 0;
+}
+
+/* line 10, ../sass/diceng20180307.scss */
+.main {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+
+/* line 15, ../sass/diceng20180307.scss */
+.main .ad {
+  position: relative;
+  z-index: 0;
+  margin: 0.43rem 0;
+}
+
+/* line 20, ../sass/diceng20180307.scss */
+a {
+  text-decoration: none;
+}
+
+/* line 23, ../sass/diceng20180307.scss */
+.main h2 {
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 36px;
+  line-height: 82px;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 0.36rem;
+  line-height: 0.82rem;
+  color: #0096e0;
+  overflow: hidden;
+  height: 0.82rem;
+  margin: 0.5rem 0 0 0;
+  padding-left: 0.14rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+/* line 31, ../sass/diceng20180307.scss */
+.main div.nav-all {
+  overflow: hidden;
+  height: auto;
+  height: 0;
+  padding: 0 0.23rem;
+  -webkit-transition: 1s all ease;
+  -moz-transition: 1s all ease;
+  -ms-transition: 1s all ease;
+  -o-transition: 1s all ease;
+  transition: 1s all ease;
+  background: #0096e0;
+}
+
+/* line 45, ../sass/diceng20180307.scss */
+.main div.nav-all h3 {
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 34px;
+  line-height: 60px;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 0.34rem;
+  line-height: 0.6rem;
+  color: #fff;
+  overflow: hidden;
+  height: 0.6rem;
+  margin-top: 0.05rem;
+  color: #fff;
+  border-bottom: 1px solid #52b8ea;
+}
+
+/* line 56, ../sass/diceng20180307.scss */
+.main div.nav-all h3 a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* line 61, ../sass/diceng20180307.scss */
+.main div.nav-all p {
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 28px;
+  line-height: 60px;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 0.28rem;
+  line-height: 0.6rem;
+  color: #fff;
+  overflow: hidden;
+  height: auto;
+  opacity: .9;
+  color: #fff;
+}
+
+/* line 71, ../sass/diceng20180307.scss */
+.main div.nav-all p a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* line 76, ../sass/diceng20180307.scss */
+.main div.nav-all p a {
+  display: inline-block;
+  margin-right: 0.2rem;
+}
+
+/* line 82, ../sass/diceng20180307.scss */
+.nav-t {
+  width: 100%;
+  height: 0.98rem;
+  overflow: hidden;
+  border-bottom: 1px solid #b6b6b6;
+  box-sizing: border-box;
+  padding: 0 0.22rem;
+}
+/* line 89, ../sass/diceng20180307.scss */
+.nav-t a {
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 36px;
+  line-height: 98px;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 0.36rem;
+  line-height: 0.98rem;
+  color: #0096e0;
+  margin-left: 0.24rem;
+}
+/* line 93, ../sass/diceng20180307.scss */
+.nav-t a.nav {
+  float: right;
+  width: 0.48rem;
+  margin: 0;
+  height: 0.98rem;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+/* line 107, ../sass/diceng20180307.scss */
+.nav-t a.nav img {
+  width: 0.48rem;
+  height: 0.47rem;
+}
+/* line 112, ../sass/diceng20180307.scss */
+.nav-t a.logo {
+  float: left;
+  width: 2.44rem;
+  height: 0.98rem;
+  margin: 0;
+}
+/* line 117, ../sass/diceng20180307.scss */
+.nav-t a.logo img {
+  width: 2.44rem;
+  height: 0.98rem;
+}
+/* line 122, ../sass/diceng20180307.scss */
+.nav-t a.history {
+  float: left;
+  width: 0.2rem;
+  height: 0.98rem;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  margin: 0;
+}
+/* line 136, ../sass/diceng20180307.scss */
+.nav-t a.history img {
+  width: 0.2rem;
+  height: 0.34rem;
+}
+
+/* line 143, ../sass/diceng20180307.scss */
+.box {
+  width: 100%;
+  height: auto;
+}
+/* line 146, ../sass/diceng20180307.scss */
+.box h1 {
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 40px;
+  line-height: 60px;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 0.4rem;
+  line-height: 0.6rem;
+  color: #333;
+  width: 6rem;
+  margin: 0.5rem auto 0.2rem auto;
+  text-align: center;
+}
+/* line 152, ../sass/diceng20180307.scss */
+.box .abs {
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 28px;
+  line-height: 36px;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 0.28rem;
+  line-height: 0.36rem;
+  color: #333;
+  width: 6rem;
+  margin: 0.37rem auto;
+  text-align: center;
+}
+/* line 157, ../sass/diceng20180307.scss */
+.box .abs .time {
+  color: #8f8c8c;
+  margin-left: 0.28rem;
+}
+/* line 162, ../sass/diceng20180307.scss */
+.box .con {
+  margin-top: 0.56rem;
+}
+/* line 164, ../sass/diceng20180307.scss */
+.box .con p {
+  padding: 0 0.32rem;
+  margin-top: 0.58rem;
+  text-align: justify;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 36px;
+  line-height: 56px;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 0.36rem;
+  line-height: 0.56rem;
+  color: #333;
+  font-weight: 400;
+}
+/* line 171, ../sass/diceng20180307.scss */
+.box .con p.imgs_c {
+  padding: 0;
+  margin-top: 0.43rem;
+  height: auto;
+  text-align: center;
+}
+/* line 177, ../sass/diceng20180307.scss */
+.box .con p.imgs_c img {
+  vertical-align: top;
+}
+@media (max-width: 767px) {
+  /* line 182, ../sass/diceng20180307.scss */
+  .box .con p.imgs_c img {
+    width: 100%;
+  }
+}
+@media (min-width: 768px) {
+  /* line 187, ../sass/diceng20180307.scss */
+  .box .con p.imgs_c img {
+    max-width: 100%;
+  }
+}
+/* line 191, ../sass/diceng20180307.scss */
+.box .con p.imgs_c span {
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 28px;
+  line-height: 56px;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 0.28rem;
+  line-height: 0.56rem;
+  color: #8f8c8c;
+}
+/* line 195, ../sass/diceng20180307.scss */
+.box .con p:first-child {
+  margin-top: 0;
+}
+/* line 199, ../sass/diceng20180307.scss */
+.box .con p.hot {
+  padding-left: 0.25rem;
+}
+/* line 201, ../sass/diceng20180307.scss */
+.box .con p.hot a {
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 28px;
+  line-height: 50px;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 0.28rem;
+  line-height: 0.5rem;
+  color: #999;
+  background-color: #f4f5f6;
+  padding: 0.05rem 0.13rem;
+  border-radius: 2px;
+  margin-right: 0.1rem;
+  font-weight: 300;
+}
+/* line 212, ../sass/diceng20180307.scss */
+.box .editor {
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 28px;
+  line-height: 50px;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 0.28rem;
+  line-height: 0.5rem;
+  color: #999;
+  text-align: right;
+  font-weight: 300;
+  padding-right: 0.32rem;
+}
+/* line 218, ../sass/diceng20180307.scss */
+.box .openAPP {
+  width: 6.62rem;
+  height: 0.76rem;
+  -moz-border-radius: 0.38rem;
+  -webkit-border-radius: 0.38rem;
+  border-radius: 0.38rem;
+  background-color: #00a0e9;
+  border: 1px solid #00a0e9;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 30px;
+  line-height: 76px;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 0.3rem;
+  line-height: 0.76rem;
+  color: #fff;
+  text-align: center;
+  margin: 0.76rem auto 0 auto;
+}
+/* line 228, ../sass/diceng20180307.scss */
+.box div.others {
+  font-family: 微软雅黑,Helvetica,Microsoft YaHei;
+  margin-top: 0.43rem;
+  bottom: 0;
+  position: fixed;
+  box-sizing: border-box;
+  width: 100%;
+  height: 0.93rem;
+  padding: 0.13rem 0.49rem 0.13rem 0.22rem;
+  color: #fff;
+  background-color: #00a0e9;
+  z-index: 999;
+}
+/* line 242, ../sass/diceng20180307.scss */
+.box div.others img {
+  width: 100%;
+}
+/* line 246, ../sass/diceng20180307.scss */
+.box div.others input {
+  float: left;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 28px;
+  line-height: 68px;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 0.28rem;
+  line-height: 0.68rem;
+  color: #a8a8a8;
+  width: 4.13rem;
+  height: 0.68rem;
+  border: 1px solid #dbd8d8;
+  padding-left: 0.67rem;
+  background: url("../images/write.jpg") no-repeat 0.12rem 0 #dbd8d8;
+  background-size: 0.37rem 0.49rem;
+  -moz-border-radius: 7px;
+  -webkit-border-radius: 7px;
+  border-radius: 7px;
+  box-sizing: border-box;
+}
+/* line 260, ../sass/diceng20180307.scss */
+.box div.others .shareB {
+  display: inline-block;
+  float: right;
+  overflow: hidden;
+  width: 0.45rem;
+  height: 0.42rem;
+  margin-top: 0.15rem;
+}
+/* line 269, ../sass/diceng20180307.scss */
+.box div.others .cycount {
+  font-family: 微软雅黑,Helvetica,Microsoft YaHei;
+  width: auto;
+  max-width: 1.2rem;
+  display: inline-block;
+  float: left;
+  overflow: hidden;
+  height: 0.42rem;
+  margin-top: 0.15rem;
+  margin-left: 0.6rem;
+  padding-left: 0.51rem;
+  text-decoration: none;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 24px;
+  line-height: 42px;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 0.24rem;
+  line-height: 0.42rem;
+  color: #a8a8a8;
+  color: #fff;
+  background: url("../images/cycount.jpg") no-repeat;
+  background-size: auto 100%;
+}
+/* line 287, ../sass/diceng20180307.scss */
+.box div.bdsharebuttonbox {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  box-sizing: border-box;
+  width: 100%;
+  height: 0;
+  overflow: hidden;
+  padding: 0;
+  -webkit-transition: height 1s;
+  -moz-transition: height 1s;
+  -o-transition: height 1s;
+  transition: height 1s;
+  background-color: #dbd8d8;
+}
+/* line 305, ../sass/diceng20180307.scss */
+.box div.bdsharebuttonbox.show {
+  height: 0.93rem;
+  padding: 0.13rem 0.05rem 0 0.05rem;
+}
+/* line 311, ../sass/diceng20180307.scss */
+.box div.bdsharebuttonbox a {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: .5rem;
+  padding-left: 0;
+}
+/* line 318, ../sass/diceng20180307.scss */
+.box div.bdsharebuttonbox a#shareClose {
+  width: 0.32rem;
+  height: 0.32rem;
+  margin-right: 0.2rem;
+  background: url("../images/close.gif") no-repeat;
+  background-size: 100%;
+}
+/* line 326, ../sass/diceng20180307.scss */
+.box div.pinglun {
+  position: fixed;
+  top: 0;
+  left: 100%;
+  overflow: scroll;
+  overflow-x: hidden;
+  width: 100%;
+  height: 100%;
+  -webkit-transition: left 1s;
+  -moz-transition: left 1s;
+  -o-transition: left 1s;
+  transition: left 1s;
+  opacity: .95;
+  background-color: #dbd8d8;
+  z-index: 9999;
+}
+/* line 347, ../sass/diceng20180307.scss */
+.box div.pinglun::-webkit-scrollbar {
+  width: .25rem;
+  height: 1.25rem;
+}
+/* line 352, ../sass/diceng20180307.scss */
+.box div.pinglun::-webkit-scrollbar-track {
+  border-radius: 2em;
+  background-color: #000;
+}
+/* line 357, ../sass/diceng20180307.scss */
+.box div.pinglun::-webkit-scrollbar-thumb {
+  -webkit-border-radius: 2em;
+  -moz-border-radius: 2em;
+  border-radius: 2em;
+  background-color: #5f5f5f;
+}
+/* line 364, ../sass/diceng20180307.scss */
+.box div.pinglun .back {
+  width: 0.32rem;
+  height: 0.32rem;
+  margin-top: 0.1rem;
+  margin-right: 2rem;
+  padding: 0.1rem;
+  background: url("../images/close.gif") no-repeat center 0.05rem;
+  background-size: 50%;
+}
+/* line 375, ../sass/diceng20180307.scss */
+.box div.pinglun.show {
+  left: 0;
+}
+/* line 379, ../sass/diceng20180307.scss */
+.box .list {
+  margin: 0 0.23rem;
+}
+/* line 382, ../sass/diceng20180307.scss */
+.box ul.list-img2 {
+  width: 100%;
+  overflow: hidden;
+  height: auto;
+}
+/* line 386, ../sass/diceng20180307.scss */
+.box ul.list-img2 li {
+  width: 100%;
+  height: 1.25rem;
+  border-bottom: 1px solid #e5e5e5;
+  padding: 0 0.06rem;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+/* line 393, ../sass/diceng20180307.scss */
+.box ul.list-img2 li a {
+  white-space: nowrap;
+  vertical-align: top;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 36px;
+  line-height: 125px;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 0.36rem;
+  line-height: 1.25rem;
+  color: #000;
+}
+/* line 398, ../sass/diceng20180307.scss */
+.box ul.list-img2 li:first-child {
+  height: 4rem;
+  position: relative;
+  padding: 0;
+}
+/* line 402, ../sass/diceng20180307.scss */
+.box ul.list-img2 li:first-child img {
+  width: 100%;
+  height: 4rem;
+}
+/* line 406, ../sass/diceng20180307.scss */
+.box ul.list-img2 li:first-child p {
+  position: absolute;
+  height: 0.58rem;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.63);
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  overflow: hidden;
+}
+/* line 415, ../sass/diceng20180307.scss */
+.box ul.list-img2 li:first-child p a {
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 36px;
+  line-height: 58px;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 0.36rem;
+  line-height: 0.58rem;
+  color: #fff;
+}
+/* line 422, ../sass/diceng20180307.scss */
+.box ul.list-h {
+  width: 100%;
+  overflow: hidden;
+  height: auto;
+}
+/* line 426, ../sass/diceng20180307.scss */
+.box ul.list-h li {
+  width: 100%;
+  height: auto;
+  border-bottom: 1px solid #e5e5e5;
+  padding-left: 0.06rem;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+/* line 433, ../sass/diceng20180307.scss */
+.box ul.list-h li a {
+  vertical-align: top;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 36px;
+  line-height: 51px;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 0.36rem;
+  line-height: 0.51rem;
+  color: #000;
+}
+/* line 437, ../sass/diceng20180307.scss */
+.box ul.list-h li .b {
+  margin-top: 0.19rem;
+}
+/* line 439, ../sass/diceng20180307.scss */
+.box ul.list-h li .b img {
+  width: 1.79rem;
+  height: 1.41rem;
+  float: right;
+  margin-bottom: 0.21rem;
+}
+/* line 445, ../sass/diceng20180307.scss */
+.box ul.list-h li .b .c {
+  width: 4.43rem;
+  float: left;
+  height: 0.5rem;
+  margin-top: 0.16rem;
+}
+
+/* line 455, ../sass/diceng20180307.scss */
+.main div.fix {
+  overflow: hidden;
+  width: 100%;
+  height: 1.87rem;
+  padding: 0.26rem 0 0.5rem 0;
+  background: #0096e0;
+  box-sizing: border-box;
+}
+
+/* line 464, ../sass/diceng20180307.scss */
+.main div.fix p {
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 24px;
+  line-height: 59px;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 0.24rem;
+  line-height: 0.59rem;
+  color: #fff;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-box;
+  display: -o-box;
+  display: box;
+  width: 70%;
+  margin: 0 auto;
+  color: #fff;
+}
+
+/* line 478, ../sass/diceng20180307.scss */
+.main div.fix span {
+  display: block;
+  overflow: hidden;
+  height: 0.52rem;
+  text-align: center;
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  -ms-box-flex: 1;
+  -o-box-flex: 1;
+  box-flex: 1;
+}
+
+/* line 492, ../sass/diceng20180307.scss */
+.main div.fix a {
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 24px;
+  line-height: 52px;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 0.24rem;
+  line-height: 0.52rem;
+  color: #fff;
+  display: inline-block;
+  overflow: hidden;
+  height: 0.52rem;
+  text-decoration: none;
+}
+
+/* line 503, ../sass/diceng20180307.scss */
+.main div.vBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: #000;
+}
+
+/* line 511, ../sass/diceng20180307.scss */
+.main div.vBox div.resBox {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+/* line 519, ../sass/diceng20180307.scss */
+.main div.vBox div.resBox video {
+  width: 100%;
+  height: 100%;
+}
+
+/* line 523, ../sass/diceng20180307.scss */
+.main div.vBox div.controlBox {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-box;
+  display: -o-box;
+  display: box;
+  overflow: hidden;
+  width: 100%;
+  height: 0.42rem;
+  background: #000;
+}
+
+/* line 540, ../sass/diceng20180307.scss */
+.main div.vBox div.controlBox span {
+  display: inline-block;
+  vertical-align: top;
+}
+
+/* line 545, ../sass/diceng20180307.scss */
+.main div.vBox div.controlBox span:nth-child(1) {
+  display: inline-block;
+  overflow: hidden;
+  width: 0.15rem;
+  height: 0.17rem;
+  margin-top: 0.13rem;
+  margin-left: 0.1rem;
+  background: url("../images/p1.png") no-repeat left center;
+  background-size: contain;
+}
+
+/* line 557, ../sass/diceng20180307.scss */
+.main div.vBox div.controlBox span:nth-child(2) {
+  display: inline-block;
+  display: none;
+  overflow: hidden;
+  width: 0.3rem;
+  height: 0.34rem;
+  margin-top: 0.13rem;
+  margin-left: 0.1rem;
+  background: url("../images/z.png") no-repeat left center;
+  background-size: contain;
+}
+
+/* line 570, ../sass/diceng20180307.scss */
+.main div.vBox div.controlBox span:nth-child(3),
+.main div.vBox div.controlBox span:nth-child(5) {
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 28px;
+  line-height: 44px;
+  font-family: PingFang SC, Lantinghei SC, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, å¾®è½¯é›…é»‘, STHeitiSC-Light, simsun, å®‹ä½“, WenQuanYi Zen Hei, WenQuanYi Micro Hei, sans-serif;
+  font-size: 0.28rem;
+  line-height: 0.44rem;
+  color: #fff;
+  overflow: hidden;
+  height: 0.32rem;
+  margin: 0 .375rem;
+  color: #fff;
+}
+
+/* line 579, ../sass/diceng20180307.scss */
+.main div.vBox div.controlBox span:nth-child(6) {
+  overflow: hidden;
+  width: 0.19rem;
+  height: 0.16rem;
+  margin-top: 0.13rem;
+  margin-right: 0.12rem;
+  background: url("../images/quan.png") no-repeat left center;
+  background-size: contain;
+}
+
+/* line 590, ../sass/diceng20180307.scss */
+.main div.vBox div.controlBox div.speedBox {
+  position: relative;
+  height: 0.04rem;
+  margin-top: 0.19rem;
+  background: #333;
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  -ms-box-flex: 1;
+  -o-box-flex: 1;
+  box-flex: 1;
+}
+
+/* line 604, ../sass/diceng20180307.scss */
+.main div.vBox div.controlBox div.speedBox div:nth-child(1) {
+  position: absolute;
+  z-index: 10;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 0.04rem;
+  background: #989191;
+}
+
+/* line 615, ../sass/diceng20180307.scss */
+.main div.vBox div.controlBox div.speedBox div:nth-child(2) {
+  position: absolute;
+  z-index: 20;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 0.04rem;
+  background: #f02a24;
+}
+
+/* line 626, ../sass/diceng20180307.scss */
+.main div.vBox div.controlBox div.speedBox div:nth-child(2) i {
+  position: absolute;
+  z-index: 30;
+  top: -rem(1);
+  right: -rem(2);
+  overflow: hidden;
+  width: 0.05rem;
+  height: 0.05rem;
+  border-radius: 50%;
+  background: #fff;
+}
+
+/* line 640, ../sass/diceng20180307.scss */
+.main div.vBox span.bf {
+  position: absolute;
+  z-index: 99999999999;
+  top: 50%;
+  left: 50%;
+  width: 0.88rem;
+  height: 0.88rem;
+  margin-top: -rem(88);
+  margin-left: -rem(88);
+  background: url("../images/b.png") no-repeat left center;
+  background-size: contain;
+}
+
+/* line 655, ../sass/diceng20180307.scss */
+.main .border0 {
+  border: 0;
+}
+
+/* line 658, ../sass/diceng20180307.scss */
+div.goTop, .main a.goHome {
+  position: fixed;
+  right: 0.1rem;
+  bottom: 40%;
+  display: none;
+  z-index: 9998;
+  width: 0.8rem;
+  height: 0.8rem;
+  background: url("../images/hw_15.png") no-repeat left center;
+  background-size: contain;
+}
+
+/* line 670, ../sass/diceng20180307.scss */
+.main a.goHome {
+  position: fixed;
+  display: block;
+  right: 0.1rem;
+  bottom: 32%;
+  display: none;
+  width: 0.8rem;
+  height: 0.8rem;
+  background: url("../images/home-3.png") no-repeat left center;
+  background-size: contain;
+}
