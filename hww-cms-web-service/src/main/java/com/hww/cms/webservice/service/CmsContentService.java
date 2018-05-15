@@ -19,7 +19,7 @@ public interface CmsContentService {
 
 	// CmsContentDataVo loadAtlasDetail(HCmsQueryDto cmsQueryDto);
 
-	List<CmsContentVo> loadTopNews(HCmsQueryDto cmsQueryDto, boolean enableUnintrested);
+	List<CmsContentDto> loadTopNews(HCmsQueryDto cmsQueryDto, boolean enableUnintrested);
 
 	List<CmsContentDto> loadUserCollectNews(HCmsQueryDto cmsQueryDto);
 
@@ -57,7 +57,7 @@ public interface CmsContentService {
 	 * @param topNewsList 置顶新闻
 	 * @return
 	 */
-	List<Map<String, Object>> distinctRecommendData(List<Map<String, Object>> homeCmsSnsList,List<CmsContentVo> topNewsList);
+	List<Map<String, Object>> distinctRecommendData(List<Map<String, Object>> homeCmsSnsList,List<CmsContentDto> topNewsList);
 
     List<Map<String,Object>> initialOrigin(List<Map<String, Object>> distinctHomeCmsSnsList);
 

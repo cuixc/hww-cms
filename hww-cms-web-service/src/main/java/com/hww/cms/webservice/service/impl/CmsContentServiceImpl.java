@@ -129,7 +129,7 @@ public class CmsContentServiceImpl implements CmsContentService {
 	 */
 	@Override
 	public List<Map<String, Object>> distinctRecommendData(List<Map<String, Object>> homeCmsSnsList,
-			List<CmsContentVo> topNewsList) {
+			List<CmsContentDto> topNewsDtoList) {
 		if (homeCmsSnsList == null || homeCmsSnsList.size() == 0)
 			return Lists.newArrayList();
 		List<Map<String, Object>> newList = new ArrayList<>(homeCmsSnsList.size());
@@ -149,9 +149,9 @@ public class CmsContentServiceImpl implements CmsContentService {
 			}
 		}
 		// 遍历置顶新闻，已经置顶了的新闻不再下面的列表显示出来
-		if (topNewsList != null && topNewsList.size() > 0) {
-			for (CmsContentVo contentVo : topNewsList) {
-				contentIds.remove(contentVo.getContentId());
+		if (topNewsDtoList != null && topNewsDtoList.size() > 0) {
+			for (CmsContentDto contentDto : topNewsDtoList) {
+				contentIds.remove(contentDto.getContentId());
 			}
 		}
 		// 最后得到新的新闻列表
@@ -415,7 +415,7 @@ public class CmsContentServiceImpl implements CmsContentService {
 	// @Cacheable(value = "cms_topNews", key =
 	// "'loadTopNews_'+#cmsQueryDto.memberId")
 	@Override
-	public List<CmsContentVo> loadTopNews(HCmsQueryDto cmsQueryDto, boolean enableUnintrested) {
+	public List<CmsContentDto> loadTopNews(HCmsQueryDto cmsQueryDto, boolean enableUnintrested) {
 		List<Long> uninterestedContentIds = Lists.newArrayList();
 		if (enableUnintrested) {
 			if (cmsQueryDto.getMemberId() != null) {
@@ -424,20 +424,20 @@ public class CmsContentServiceImpl implements CmsContentService {
 			}
 		}
 
-		List<CmsContent> cmsContentList = cmsContentMng.queryTopNewList(cmsQueryDto, uninterestedContentIds);
+		List<CmsContentDto> cmsContentDtoList = cmsContentMng.queryTopNewList(cmsQueryDto, uninterestedContentIds);
 		// 直接去掉重复
-		cmsContentList = cmsContentList.stream().distinct().collect(Collectors.toList());
+		cmsContentDtoList = cmsContentDtoList.stream().distinct().collect(Collectors.toList());
 
-		List<CmsContentVo> cmsContentVoList = BeanMapper.mapList(cmsContentList, CmsContentVo.class);
+		/*List<CmsContentVo> cmsContentVoList = BeanMapper.mapList(cmsContentList, CmsContentVo.class);
 		if (cmsContentVoList == null || cmsContentVoList.isEmpty()) {
 			return Lists.newArrayList();
-		}
+		}*/
 		// validateNewKeywordsExist-
-		for (CmsContentVo cmsContentVo : cmsContentVoList) {
-			constructContentVoForList(cmsContentVo, cmsQueryDto.getMemberId());
+		for (CmsContentDto cmsContentDto : cmsContentDtoList) {
+			constructContentDtoForList(cmsContentDto, cmsQueryDto.getMemberId());
 		}
-		initialOriginForlist(cmsContentVoList);
-		return cmsContentVoList;
+		initOriginForlist(cmsContentDtoList);
+		return cmsContentDtoList;
 	}
 
 	@Override

@@ -5,6 +5,7 @@ import com.hww.app.api.AppFeignClient;
 import com.hww.app.common.dto.AppBehaviorDto;
 import com.hww.app.common.dto.AppMemberNearbyDto;
 import com.hww.app.common.dto.SearchHistoryDto;
+import com.hww.base.util.BeanMapper;
 import com.hww.base.util.R;
 import com.hww.cms.common.dto.*;
 import com.hww.cms.common.util.ValidatorUtils;
@@ -380,11 +381,11 @@ public class CmsContentController {
 		long a = System.currentTimeMillis();
 		log.debug("--------home---start-||" + a / 1000);
 		// 置顶暂时给三条
-		List<CmsContentVo> topNewsList = cmsContentService.loadTopNews(
+		List<CmsContentDto> topNewsDtoList = cmsContentService.loadTopNews(
 				new HCmsQueryDto().setMemberId(cmsIndexDto.getMemberId()).setPageNo(1).setPageSize(3), false);
 		List<Long> topNewsIds = Lists.newArrayList();
-		if (topNewsList != null && topNewsList.size() > 0) {
-			topNewsIds = topNewsList.stream().map(val -> val.getContentId()).collect(Collectors.toList());
+		if (topNewsDtoList != null && topNewsDtoList.size() > 0) {
+			topNewsIds = topNewsDtoList.stream().map(val -> val.getContentId()).collect(Collectors.toList());
 		}
 		log.debug("-----after---topNewsList.---t:||" + (System.currentTimeMillis() - a) / 1000);
 
@@ -427,9 +428,10 @@ public class CmsContentController {
 		long c = System.currentTimeMillis();
 		log.debug("-----after---homeCmsSnsList.----|t1: +" + (c - b) / 1000 + "||t2: " + (c - a) / 1000 + "");
 		// 对数据去重
-		List<Map<String, Object>> distinctHomeCmsSnsList = cmsContentService.distinctRecommendData(homeCmsSnsList,topNewsList);
+		List<Map<String, Object>> distinctHomeCmsSnsList = cmsContentService.distinctRecommendData(homeCmsSnsList,topNewsDtoList);
 		// 给数据加上来源
 		distinctHomeCmsSnsList = cmsContentService.initialOrigin(distinctHomeCmsSnsList);
+		List<CmsContentVo> topNewsList = BeanMapper.mapList(topNewsDtoList, CmsContentVo.class);
 		res.put("topList", topNewsList);
 		res.put("list", distinctHomeCmsSnsList);
 
