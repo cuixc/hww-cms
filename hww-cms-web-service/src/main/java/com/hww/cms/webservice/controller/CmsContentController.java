@@ -84,6 +84,7 @@ public class CmsContentController {
 	@ResponseBody
 	public R atlasDetail(HCmsQueryDto cmsQueryDto) {
 		log.info("----------图集详情开始----------");
+		//test
 		try {
 			String result = "";
 			if (cmsQueryDto.getContentId() != null) {
